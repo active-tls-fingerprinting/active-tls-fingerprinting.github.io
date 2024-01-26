@@ -1,4 +1,4 @@
-title: Effective Active TLS Fingerprinting
+title: Active TLS Fingerprinting
 
 author: Markus Sosnowski
 
@@ -9,14 +9,4 @@ url: "https://active-tls-fingerprinting.github.io" # the base hostname & protoco
 twitter_username:
 github_username:  syncall
 
-header_pages:
-  - pages/data.md
-  - pages/pipeline.md
-
-# Build settings
-remote_theme: tumi8/tumi8-theme
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
+theme: minima
